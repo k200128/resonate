@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resonate/static/css/main.ff6ee1c1.css",
+    "main.js": "/resonate/static/js/main.9d0b8ede.js",
+    "static/js/787.097e58ee.chunk.js": "/resonate/static/js/787.097e58ee.chunk.js",
+    "index.html": "/resonate/index.html",
+    "main.ff6ee1c1.css.map": "/resonate/static/css/main.ff6ee1c1.css.map",
+    "main.9d0b8ede.js.map": "/resonate/static/js/main.9d0b8ede.js.map",
+    "787.097e58ee.chunk.js.map": "/resonate/static/js/787.097e58ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff6ee1c1.css",
+    "static/js/main.9d0b8ede.js"
+  ]
+}
