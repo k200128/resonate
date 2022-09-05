@@ -1,0 +1,57 @@
+.app {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: lightgray;
+}
+
+
+.user__name{
+  width: 500px;  
+  height: 50px;  
+  border-bottom: 1px solid black;  
+  /* border-radius: 10px;   */
+  padding-left: 8px; 
+  background-color:white;
+margin-left: 10px;
+display: flex;
+flex-direction: row;
+align-items: center;
+font-size: 20px;
+font-weight: 600;
+
+  
+}
+.user__name:hover  {
+  font-weight:bold;
+    cursor: pointer;
+    background-color:gray;
+    color: white;
+    
+}
+.user__name:hover > .avatar{
+  background-color: white;
+}
+
+.heading {
+  display: flex;
+margin-left: 10px;
+background-color:white;
+color: black;
+border: 1px solid black;
+border-radius: 10px;
+width: 150px;
+align-items: center;
+justify-content: center;
+
+}
+.avatar{
+  display: flex;
+  margin-right: 20px;
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1px;
+}
